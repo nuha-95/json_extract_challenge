@@ -1,9 +1,0 @@
-{
-    "name": "json-image-api",
-    "version": "1.0.0",
-    "type": "module",
-    "dependencies": {
-      "tesseract.js": "^5.0.4"
-    }
-  }
-  
